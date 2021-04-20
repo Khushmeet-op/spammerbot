@@ -30,10 +30,7 @@ A simple Telegram userbot based on Telethon .
    <a href="https://t.me/catuserbot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
 ## Inspiration
-   - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
    - [BLACKSNAC](https://github.com/BLACKSNAC/BLACKSNAC)
-   - [Nana-Remix](https://github.com/pokurt/Nana-Remix)
-   - [Userge-X](https://github.com/code-rgb/USERGE-X/)
    
 ## Disclaimer
 
