@@ -1,7 +1,7 @@
 # Spammer bot
 A simple Telegram userbot based on Telethon .
-Spammer bot pic;https://telegra.ph/file/fb6d40e762f5e6494df94.jpg
-
+Spamme
+[![spammeruserbot logo](https://telegra.ph/file/9792f41cb0d17ada62bf6.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fabhinav1246%2Fspammerbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fabhinav1246%2Fspammerbot)
 
 ## How to deploy catuserbot
 ### Heroku Deploy
