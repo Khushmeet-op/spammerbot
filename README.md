@@ -3,7 +3,7 @@ A simple Telegram userbot based on Telethon .
 Spamme
 [![spammeruserbot logo](https://telegra.ph/file/9792f41cb0d17ada62bf6.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fabhinav1246%2Fspammerbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fabhinav1246%2Fspammerbot)
 
-## How to deploy spammeruserbot
+
 ### Heroku Deploy
   
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMr-confused%2Fcatpack&template=https%3A%2F%2Fgithub.com%2FMr-confused%2Fcatpack)
@@ -17,22 +17,8 @@ Spamme
    
 ## Disclaimer
 
-```
-              YOU ARE FOREWARNED
-Your Telegram account may get banned.   
-Catuserbot or we are not responsible for your account, 
-This bot is intended for the purpose of having fun with some fun commands 
-and group management with some helpfull commands.
+``𝙎𝙋𝘼𝙈 𝘼𝙎 𝙏𝙊 𝙈𝙐𝘾𝙃 𝘼𝙎 𝙐 𝘾𝘼𝙉 𝘼𝙉𝘿 𝙒𝙃𝙊 𝙒𝘼𝙉𝙏 𝙏𝙊 𝙃𝘼𝘾𝙆 𝙈𝙀 𝘽𝙊𝙏 𝙏𝙃𝙀 𝙊𝙉𝙇𝙔 𝙒𝙊𝙍𝘿 𝙏𝙃𝘼𝙏 𝙄 𝘼𝙈 𝙎𝘼𝙔𝙄𝙉𝙂 𝙏𝙊 𝙏𝙃𝙀𝙈 '𝘼𝙅𝙄 𝙇𝘼𝙒𝘿𝘼'
 
-If  you ended up spamming groups, getting reported left and right, 
-and you ended up in being fight with Telegram 
-and at the end Telegram Team deleted your account. DON'T BLAME US.
-
-No personal support will be provided / We won't spoon feed you. 
-If you need help ask in our support group 
-and we or our friends will try to help you.
-
-Thanks for using our bot 😺
 ```
 
 ## Credits
