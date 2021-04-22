@@ -3,7 +3,7 @@ A simple Telegram userbot based on Telethon .
 Spamme
 [![spammeruserbot logo](https://telegra.ph/file/9792f41cb0d17ada62bf6.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fabhinav1246%2Fspammerbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fabhinav1246%2Fspammerbot)
 
-## How to deploy catuserbot
+## How to deploy spammeruserbot
 ### Heroku Deploy
   
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMr-confused%2Fcatpack&template=https%3A%2F%2Fgithub.com%2FMr-confused%2Fcatpack)
