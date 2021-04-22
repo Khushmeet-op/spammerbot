@@ -1,6 +1,6 @@
 # Spammer bot
 A simple Telegram userbot based on Telethon .
-
+Spammer bot pic;https://telegra.ph/file/fb6d40e762f5e6494df94.jpg
 
 
 ## How to deploy catuserbot
