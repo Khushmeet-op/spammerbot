@@ -34,7 +34,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/9792f41cb0d17ada62bf6.jpg",
+      "value": "https://telegra.ph/file/c44233f0ed7ff97e9b81f.mp4",
       "required": false
     },
     "BIO_MSG": {
