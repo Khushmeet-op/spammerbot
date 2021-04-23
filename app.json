@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .mafia Command.",
+      "description": "Set Custom Alive Message When entering .spammer Command.",
       "value": "😈SPAMMER IS ALIVE😈",
       "required": false
     },
